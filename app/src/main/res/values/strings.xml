@@ -9,4 +9,8 @@
     <string name="drawer_close">Close Drawer</string>
     <string name="pokemon_list_activity_title">Mis Pokemones</string>
     <string name="pokemon_favorites_activity_title">Mis Favoritos</string>
+    <string name="nombre_de_usuario">Nombre de Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="bienvenido">Bienvenido</string>
 </resources>
