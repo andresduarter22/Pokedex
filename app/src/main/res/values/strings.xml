@@ -13,4 +13,6 @@
     <string name="contrasena">Contraseña</string>
     <string name="ingresar">Ingresar</string>
     <string name="bienvenido">Bienvenido</string>
+    <string name="error_invalid_email">Usuario incorrecto</string>
+    <string name="error_empty">Campos vacios</string>
 </resources>

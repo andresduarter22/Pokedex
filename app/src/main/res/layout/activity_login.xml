@@ -25,6 +25,7 @@
 
 
     <EditText
+        android:id="@+id/nombreUsuario"
         android:layout_width="match_parent"
         android:layout_height="65dp"
         android:layout_marginTop="50dp"
@@ -35,6 +36,7 @@
         android:gravity="center"/>
 
     <EditText
+        android:id="@+id/contrasenaUsuario"
         android:layout_width="match_parent"
         android:layout_height="65dp"
         android:layout_marginTop="150dp"
@@ -44,13 +46,15 @@
         android:gravity="center"/>
 
     <Button
+        android:id="@+id/botonIngresar"
         android:layout_width="113dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:background="@drawable/round_box"
         android:backgroundTint="@color/colorPrimary"
         android:gravity="center"
-        android:text="@string/ingresar" />
+        android:text="@string/ingresar"
+        android:onClick="goToMain"/>
 
 
 </LinearLayout>
